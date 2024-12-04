@@ -1,0 +1,27 @@
+{
+    "urls":[
+            {"url":"https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-VA.json","name":"忐忑接口"},
+            {"url":"https://api.paoyun.eu.org/zq/api.json","name":"QZ接口"},
+            {"url":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/0914-only-sex.json","name":"18禁專區"},
+            {"url":"https://robyang.bsite.net/VodLive/jb8ffa","name":"RobYang接口-點播"},
+            {"url":"https://robyang.bsite.net/VodLive/lb8ffa","name":"RobYang接口-直播"},
+            {"url":"https://robyang.bsite.net/VodLive/xb8ffa","name":"RobYang接口-色情"},
+            {"url":"https://9280.kstore.space/wex.json","name":"唐三接口"},
+            {"url":"https://www.饭太硬.com/tv","name":"飯太硬接口"},
+            {"url":"https://json.doube.eu.org/t4.php","name":"沐辰接口"},
+            {"url":"http://ok321.top/ok","name":"ok佬接口"},
+            {"url":"http://我不是.肥猫.live/接口禁止贩卖","name":"肥貓接口"},
+            {"url":"http://我不是.摸鱼儿.top","name":"摸魚兒接口"},
+            {"url":"https://api.paoyun.eu.org/zq/api.json","name":"QZ接口"},
+            {"url":"https://xn--wqqw-rp5imh.v.nxog.top/api.php?id=3","name":"歐歌接口"},
+            {"url":"https://raw.githubusercontent.com/ouhaibo1980/tvbox/master/pg/jsm.json","name":"PG接口"},
+            {"url":"http://itvbox.cc/云星日记","name":"云星日记接口"},
+            {"url":"https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json","name":"南風接口"},
+            {"url":"https://raw.githubusercontent.com/newrecha/TVBOX/88d96f8003c84e49d2d7bc18e0286b9f0f53c381/biliext/io/%E6%B8%B8%E9%AD%82%E5%AE%B6%E5%BA%AD1.txt","name":"遊魂接口"},
+            {"url":"http://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json","name":"瀟灑哥接口"},
+            {"url":"https://raw.githubusercontent.com/maoystv/6/main/001.json","name":"分享者接口"},
+            {"url":"https://raw.githubusercontent.com/805598571/77/f14e81d6a826e7127c36edd2f9dd989a3f1bb4b3/cs.json","name":"㊣撿垃圾之神㊣"}
+
+            
+           ]
+    }
