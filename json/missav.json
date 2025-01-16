@@ -16,7 +16,7 @@
 "首页片单链接": "a&&href",
 "首页片单图片": "img&&data-src",
 "首页片单副标题": "span&&Text",
-"首页片单链接加前缀": "",
+"首页片单链接加前缀": "https://missav.ws/",
 "首页片单链接加后缀": "",
 "分类起始页码": "1",
 //"分类链接": "https://hscangku.com/vodshow/{cateId}-{catePg}/",
