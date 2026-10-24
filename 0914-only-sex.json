@@ -11,7 +11,7 @@
         "quickSearch": 1,
         "filterable": 1,
         "api": "csp_XBPQ",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar",
+        "jar": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/jar/xyqxbpq.jar",
         "style": {"ratio": 1.7},
         "ext": {
           "搜索url": "http://gcmd.cc/index.php/vod/search/page/{pg}/wd/{wd}.html",
@@ -24,8 +24,8 @@
         "key": "vv001",
         "name": "️🔞女優",
         "type": 4,
-        "api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/00title05151.json",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/Peter(H).jar",
+        "api": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/json/00title05151.json",
+        "jar": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/jar/Peter(H).jar",
         "searchable": 0,
         "quickSearch": 0,
         "filterable": 0
@@ -34,8 +34,8 @@
         "key": "vv002",
         "name": "️🔞番號",
         "type": 4,
-        "api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/00title05152.json",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/Peter(H).jar",
+        "api": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/json/00title05152.json",
+        "jar": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/jar/Peter(H).jar",
         "searchable": 0,
         "quickSearch": 0,
         "filterable": 0
@@ -44,8 +44,8 @@
         "key": "vv003",
         "name": "️🔞薇薇珊",
         "type": 4,
-        "api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/00title05153.json",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/Peter(H).jar",
+        "api": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/json/00title05153.json",
+        "jar": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/jar/Peter(H).jar",
         "searchable": 0,
         "quickSearch": 0,
         "filterable": 0
@@ -55,7 +55,7 @@
         "name": "🔞91md91麻豆",
         "type": 1,
         "api": "https://md91.cc/api.php/provide/vod/",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/Peter(H).jar",
+        "jar": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/jar/Peter(H).jar",
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1
@@ -65,7 +65,7 @@
         "name": "🔞lovedan艾旦",
         "type": 1,
         "api": "https://lovedan.net/api.php/provide/vod/",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/Peter(H).jar",
+        "jar": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/jar/Peter(H).jar",
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1
@@ -86,7 +86,7 @@
         "name": "🔞天美",
         "type": 3,
         "api": "csp_XBPQ",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar",
+        "jar": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/jar/XBPQ.jar",
         "ext": {
           "搜索链接": "http://www.xbyc.cc/index.php/vod/search/page/{pg}/wd/{wd}.html",
           "数组": "\"box-item\"&&</em>",
@@ -95,7 +95,7 @@
           "分类标题": "\">&&</a",
           "分类ID": "id/&&.",
           "分类链接": "http://www.xbyc.cc/index.php/vod/type/id/{cateId}/page/{catePg}.html;;mz",
-          "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar"
+          "jar": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/jar/o.jar"
         }
       },
       {
@@ -132,7 +132,7 @@
           "简介": "⚠️少看点，再看你就废了！！！",
           "分类url": "https://777080.xyz/category/{cateId}/page/{catePg}/;;z",
           "分类": "國產精選$國產精選#探花約炮$探花約炮#日韓影片$日韓影片#無碼素人$無碼素人#歐美專區$歐美專區#中字動漫$中字動漫",
-          "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar"
+          "jar": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/jar/o.jar"
         }
       },
       {
@@ -152,7 +152,7 @@
           "简介": "⚠️慢点撸，皮要掉了！！！",
           "分类url": "https://taiav.com/cn/category/{cateId}?page={catePg};;z",
           "分类": "国产AV$国产AV#网红主播$网红主播#有码$有码#无码$无码",
-          "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar"
+          "jar": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/jar/o.jar"
         }
       },
       {
@@ -166,7 +166,7 @@
           "图片": "src=\"&&\"",
           "分类url": "https://www.nice106.xyz/index.php/vod/type/id/{cateId}.html",
           "分类": "中文字幕$1#日本有码$2#日本无码$3#AV解说$4#cosplay$5#黑丝诱惑$6#SWAG$7#自拍偷拍$8#激情动漫$9#网红主播$10#探花系列$11#三级伦理$12#VR视角$13#国产传媒$14#素人搭讪$15#门事件$16",
-          "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar"
+          "jar": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/jar/o.jar"
         }
       },
       {
@@ -177,7 +177,7 @@
          "searchable": 1,
          "quickSearch": 1,
          "filterable": 1,
-         "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/Peter(H).jar",
+         "jar": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/jar/Peter(H).jar",
          "ext":"https://supjav.com/zh/$$$noproxy$$$",
          "style": {
          "type": "rect",
@@ -256,11 +256,11 @@
         "name": "🔞300分类",
         "type": 3,
         "api": "csp_XYQHiker",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/Aoki.jar",
+        "jar": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/jar/Aoki.jar",
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/300分类.json"
+        "ext": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/json/300分类.json"
       },
       {
         "key": "玩偶妹妹",
@@ -275,7 +275,7 @@
           "直接播放": "1",
           "分类url": "https://urcccg.dbtav9.today/vodtype/{cateId}/{catePg}/;;a",
           "分类": "国产精品$20#主播大秀$21#唯美视频$22#口交视频$23#日本有碼$24#日本無碼$25#动漫视频$26#欧美视频$27#日韩视频$28#欧美视频$29#动漫视频$30#伦理影片$31",
-          "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar"
+          "jar": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/jar/o.jar"
         }
       },
       {
@@ -285,7 +285,7 @@
         "api": "csp_J91",
         "searchable": 1,
         "filterable": 1,
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/182.jar"
+        "jar": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/jar/182.jar"
       },
       {
         "key": "Cg51",
@@ -294,7 +294,7 @@
         "api": "csp_Cg51",
         "searchable": 1,
         "filterable": 1,
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/182.jar"
+        "jar": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/jar/182.jar"
       },
       {
         "key": "51黑料福利社",
@@ -332,7 +332,7 @@
           "图片": "data-src=\"&&\"",
           "分类url": "https://sexbjcam.com/category/{cateId}/page/{catePg}/?filter=latest;;D",
           "分类": "chinese-gril$chinese-gril#korean-bj$korean-bj#chaturbate$chaturbate",
-          "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar"
+          "jar": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/jar/o.jar"
         }
       },
       {
@@ -359,7 +359,7 @@
           "分类标题": ">&&<",
           "分类ID": "/t/&&/",
           "分类url": "https://xxxxxxav3.com/t/{cateId}-{catePg}/;;z",
-          "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar"
+          "jar": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/jar/o.jar"
         }
       },
       {
@@ -377,7 +377,7 @@
           "链接": "href=\"&&\"",
           "分类url": "https://rourou.co/index.php/vod/type/id/{cateId}/page/{carePg}.html",
           "分类": "麻豆视频$1#中文字幕$2#日本无码$3#日本有码$4#童颜巨乳$5#校园萝莉$6#女优明星$7#角色扮演$8#制服诱惑$9#强奸乱伦$31#AI换脸$32#黑料泄密$33#主播直播$34#国产精品$35#探花视频$36#女同性恋$37#SM调教$38#人妻熟女$40",
-          "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar"
+          "jar": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/jar/o.jar"
         }
       },
       {
@@ -391,7 +391,7 @@
           "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
           "分类url": "https://www.yasetube.com/video/category/{cateId}/page/{catePg}",
           "分类": "女厕偷拍$nvce#海角系列$hj#FC2PPV$fc2-ppv#Mesubuta系列$me#MILF人妻无码$milf#偷拍自拍$dalu#品牌传媒$madou",
-          "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar"
+          "jar": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/jar/o.jar"
         }
       },
       {
@@ -405,7 +405,7 @@
           "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
           "分类url": "https://xn--zovv42dba.com/list-read-id-{cateId}-p-{catePg}",
           "分类": "国产精品$19#偷拍自拍$20#欧美成人$26#中文无码$23#中文字幕$22#亚洲情色$21#卡通动漫$24#成人伦理$25",
-          "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar"
+          "jar": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/jar/o.jar"
         }
       },
       {
@@ -413,21 +413,21 @@
         "name": "🔞18歲",
         "type": 3,
         "api": "csp_Eighteen",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg-0923.jar"
+        "jar": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/jar/pg-0923.jar"
       },
       {
         "key": "Gxqvlj",
         "name": "🔞高速插",
         "type": 3,
         "api": "csp_Gxqvlj",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg-0923.jar"
+        "jar": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/jar/pg-0923.jar"
       },
       {
         "key": "Zuise",
         "name": "🔞撸色",
         "type": 3,
         "api": "csp_Zuise",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg-0923.jar"
+        "jar": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/jar/pg-0923.jar"
       },
       {
         "key": "18j.tv",
@@ -443,7 +443,7 @@
           "链接": "href=\"&&\"",
           "分类url": "https://18j.tv/show/{cateId}/nid/1/page/{catePg}/sid/1/",
           "分类": "国产$1#日韩$2#欧美$3#伦理$4#动漫$16",
-          "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar"
+          "jar": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/jar/o.jar"
         }
       },
       {
@@ -470,7 +470,7 @@
         "type": 3,
         "api": "csp_XBPQ",
         "style": {"ratio": 1.7},
-        "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/女优.json"
+        "ext": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/json/女优.json"
       },
       {
         "key": "暗网色库",
@@ -478,7 +478,7 @@
         "type": 3,
         "api": "csp_XBPQ",
         "style": {"ratio": 1.7},
-        "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/暗网.json"
+        "ext": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/json/暗网.json"
       },
       {
         "key": "XHP",
@@ -498,7 +498,7 @@
         "api": "csp_JJAiPian",
         "searchable": 1,
         "filterable": 1,
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/182.jar"
+        "jar": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/jar/182.jar"
       },
       {
         "key": "农夫与少妇",
@@ -508,7 +508,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/nfsf.json"
+        "ext": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/json/nfsf.json"
       },
       {
         "key": "手鸡助手",
@@ -531,7 +531,7 @@
         "api": "csp_XMVideo",
         "searchable": 1,
         "filterable": 1,
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/182.jar"
+        "jar": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/jar/182.jar"
       },
       {
         "key": "av影视",
@@ -554,7 +554,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/比卡比卡.json"
+        "ext": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/json/比卡比卡.json"
       },
       {
         "key": "ROU223",
@@ -563,7 +563,7 @@
         "api": "csp_ROU223",
         "searchable": 1,
         "filterable": 1,
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/182.jar"
+        "jar": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/jar/182.jar"
       },
       {
         "key": "HiPianZhiBo",
@@ -572,14 +572,14 @@
         "api": "csp_HiPianZhiBo",
         "searchable": 1,
         "filterable": 1,
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/182.jar"
+        "jar": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/jar/182.jar"
       },
       {
         "key": "努可影院",
         "name": "🔞努可影院",
         "type": 3,
         "api": "csp_XBPQ",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/hl.jar",
+        "jar": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/jar/hl.jar",
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
@@ -623,7 +623,7 @@
           "分类标题": ">&&</a>",
           "分类ID": "/t/&&/"
         },
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/hl.jar"
+        "jar": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/jar/hl.jar"
       },
       {
         "key": "csp_XYQHiker_777影院",
@@ -642,7 +642,7 @@
         "type": 3,
         "playerType": 2,
         "api": "csp_XBPQ",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar",
+        "jar": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/jar/xyqxbpq.jar",
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
@@ -705,7 +705,7 @@
         "type": 3,
         "api": "csp_XBPQ",
         "style": {"ratio": 1.7},
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/hl.jar",
+        "jar": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/jar/hl.jar",
         "ext": {
           "数组": "<section&&</section",
           "副标题": "添加时间:&&</span>",
@@ -799,7 +799,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/hl.jar",
+        "jar": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/jar/hl.jar",
         "api": "csp_XBPQ",
         "ext": {
           "直接播放": "1",
@@ -827,7 +827,7 @@
         "name": "🔞四虎影院",
         "type": 3,
         "api": "csp_XBPQ",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/hl.jar",
+        "jar": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/jar/hl.jar",
         "playerType": 2,
         "searchable": 1,
         "quickSearch": 1,
@@ -899,21 +899,21 @@
           "分类ID": "/gaotype/&&.html",
           "分类url": "https://www.34gaobk.com/gaotype/{cateId}_{catePg}.html[https://www.34gaobk.com/gaotype/{cateId}.html]"
         },
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/hl.jar"
+        "jar": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/jar/hl.jar"
       },
       {
         "key": "Jable",
         "name": "🔞Jable(海外)",
         "type": 3,
         "api": "csp_Jable",
-        "spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg-0923.jar;md5;6f961440f06f0d23d3a172dad1fa5733",
+        "spider": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/jar/pg-0923.jar;md5;6f961440f06f0d23d3a172dad1fa5733",
         "searchable": 1,
         "quickSearch": 1,
         "changeable": 1,
         "ext": "127.0.0.1:10072$$$null$$$1",
         "style": {"type": "rect", "ratio": 1.77},
         "timeout": 60,
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg-0923.jar;md5;6f961440f06f0d23d3a172dad1fa5733"
+        "jar": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/jar/pg-0923.jar;md5;6f961440f06f0d23d3a172dad1fa5733"
       },
       {
         "key": "✨R撸巴✨",
@@ -939,7 +939,7 @@
         "name": "🔞Bi8TV",
         "type": 3,
         "api": "csp_XBPQ",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar",
+        "jar": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/jar/XBPQ.jar",
         "style": {"type": "rect", "ratio": 1.485},
         "ext": {
           "主页url": "https://v3.bi888.link/",
@@ -963,7 +963,7 @@
         "style": {
           "type": "rect",
           "ratio": 1.5,
-          "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar"
+          "jar": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/jar/o.jar"
         }
       },
       {
@@ -978,7 +978,7 @@
         "style": {
           "type": "rect",
           "ratio": 1.5,
-          "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar"
+          "jar": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/jar/o.jar"
         }
       },
       {
@@ -992,7 +992,7 @@
         "style": {
           "type": "rect",
           "ratio": 1.33,
-          "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar"
+          "jar": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/jar/o.jar"
         }
       },
       {
@@ -1008,13 +1008,13 @@
         "header": {
           "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
           "User-Agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36",
-          "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/o.jar"
+          "jar": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/jar/o.jar"
         }
       },
       {
         "key": "csp_Netflav",
         "name": "🔞Netflav",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg-0923.jar;md5;6f961440f06f0d23d3a172dad1fa5733",
+        "jar": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/jar/pg-0923.jar;md5;6f961440f06f0d23d3a172dad1fa5733",
         "type": 3,
         "api": "csp_Netflav",
         "searchable": 1,
@@ -1022,62 +1022,62 @@
         "changeable": 1,
         "filterable": 0,
         "timeout": 60,
-        "spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg-0923.jar;md5;6f961440f06f0d23d3a172dad1fa5733"
+        "spider": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/jar/pg-0923.jar;md5;6f961440f06f0d23d3a172dad1fa5733"
       },
       {
         "key": "Cable",
         "name": "🔞CableAV",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg-0923.jar;md5;6f961440f06f0d23d3a172dad1fa5733",
+        "jar": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/jar/pg-0923.jar;md5;6f961440f06f0d23d3a172dad1fa5733",
         "type": 3,
         "searchable": 1,
         "quickSearch": 1,
         "api": "csp_Cable",
         "timeout": 60,
-        "spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg-0923.jar;md5;6f961440f06f0d23d3a172dad1fa5733"
+        "spider": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/jar/pg-0923.jar;md5;6f961440f06f0d23d3a172dad1fa5733"
       },
       {
         "key": "玩偶",
         "name": "🔞玩偶",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg-0923.jar;md5;6f961440f06f0d23d3a172dad1fa5733",
+        "jar": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/jar/pg-0923.jar;md5;6f961440f06f0d23d3a172dad1fa5733",
         "type": 3,
         "searchable": 1,
         "quickSearch": 1,
         "api": "csp_Doll",
         "style": {"type": "rect", "ratio": 1.309},
-        "spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg-0923.jar;md5;6f961440f06f0d23d3a172dad1fa5733"
+        "spider": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/jar/pg-0923.jar;md5;6f961440f06f0d23d3a172dad1fa5733"
       },
       {
         "key": "18AV",
         "name": "🔞18AV",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg-0923.jar;md5;6f961440f06f0d23d3a172dad1fa5733",
+        "jar": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/jar/pg-0923.jar;md5;6f961440f06f0d23d3a172dad1fa5733",
         "type": 3,
         "searchable": 1,
         "quickSearch": 1,
         "api": "csp_Eighteen",
         "style": {"type": "rect", "ratio": 1.485},
-        "spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg-0923.jar;md5;6f961440f06f0d23d3a172dad1fa5733"
+        "spider": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/jar/pg-0923.jar;md5;6f961440f06f0d23d3a172dad1fa5733"
       },
       {
         "key": "Jable",
         "name": "🔞Jable",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg-0923.jar;md5;6f961440f06f0d23d3a172dad1fa5733",
+        "jar": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/jar/pg-0923.jar;md5;6f961440f06f0d23d3a172dad1fa5733",
         "type": 3,
         "searchable": 1,
         "quickSearch": 1,
         "api": "csp_Jable",
         "style": {"type": "rect", "ratio": 1.77},
-        "spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg-0923.jar;md5;6f961440f06f0d23d3a172dad1fa5733"
+        "spider": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/jar/pg-0923.jar;md5;6f961440f06f0d23d3a172dad1fa5733"
       },
       {
         "key": "Hanime",
         "name": "🔞Hanime",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg-0923.jar;md5;6f961440f06f0d23d3a172dad1fa5733",
+        "jar": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/jar/pg-0923.jar;md5;6f961440f06f0d23d3a172dad1fa5733",
         "type": 3,
         "searchable": 1,
         "quickSearch": 1,
         "api": "csp_Hanime",
         "style": {"type": "rect", "ratio": 0.68},
-        "spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg-0923.jar;md5;6f961440f06f0d23d3a172dad1fa5733"
+        "spider": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/jar/pg-0923.jar;md5;6f961440f06f0d23d3a172dad1fa5733"
       },
       {
         "key": "semaozy.com",
@@ -1102,8 +1102,8 @@
         "key": "drpy_js_色色",
         "name": "🔞涩涩直播",
         "type": 3,
-        "api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/drpy.min.js",
-        "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/ss直播.js",
+        "api": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/lib/drpy.min.js",
+        "ext": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/lib/ss直播.js",
         "playerType": 1,
         "searchable": 1,
         "quickSearch": 1
@@ -1130,17 +1130,17 @@
         "name": "🔞MissAV",
         "type": 3,
         "searchable": 1,
-        "spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg-0923.jar;md5;6f961440f06f0d23d3a172dad1fa5733",
+        "spider": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/jar/pg-0923.jar;md5;6f961440f06f0d23d3a172dad1fa5733",
         "quickSearch": 1,
         "api": "csp_Miss",
         "style": {"type": "rect", "ratio": 1.78},
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg-0923.jar;md5;6f961440f06f0d23d3a172dad1fa5733"
+        "jar": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/jar/pg-0923.jar;md5;6f961440f06f0d23d3a172dad1fa5733"
       },
       {
         "key": "www.caoliuzyw.com",
         "name": "🔞草榴",
         "type": 1,
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg-0923.jar;md5;6f961440f06f0d23d3a172dad1fa5733",
+        "jar": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/jar/pg-0923.jar;md5;6f961440f06f0d23d3a172dad1fa5733",
         "api": "https://www.caoliuzyw.com/api.php/provide/vod/?ac=list",
         "searchable": 1,
         "quickSearch": 1,
@@ -1187,7 +1187,7 @@
         "name": "🔞黄瓜",
         "type": 1,
         "api": "https://www.avre06.com/api.php/provide/vod/",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg-0923.jar;md5;6f961440f06f0d23d3a172dad1fa5733",
+        "jar": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/jar/pg-0923.jar;md5;6f961440f06f0d23d3a172dad1fa5733",
         "searchable": 1,
         "quickSearch": 1,
         "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
@@ -1233,11 +1233,11 @@
         "name": "🔞91黑料",
         "type": 3,
         "api": "csp_XBPQ",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar",
+        "jar": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/jar/XBPQ.jar",
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/91黑料.json"
+        "ext": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/json/91黑料.json"
       },
       {
         "key": "色花堂",
@@ -1247,8 +1247,8 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/色花堂.json",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar"
+        "ext": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/json/色花堂.json",
+        "jar": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/jar/XBPQ.jar"
       },
       {
         "key": "我爱AV",
@@ -1258,8 +1258,8 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/我爱AV.json",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar"
+        "ext": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/json/我爱AV.json",
+        "jar": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/jar/XBPQ.jar"
       },
       {
         "key": "森林专场",
@@ -1636,19 +1636,19 @@
         "key": "Theporn",
         "name": "🔞Theporn",
         "type": 3,
-        "api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/drpy2.min.js",
+        "api": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/lib/drpy2.min.js",
         "searchable": 1,
         "changeable": 1,
         "timeout": 60,
         "style": {"type": "rect", "ratio": 1.5},
-        "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/js/theporn.js"
+        "ext": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/js/theporn.js"
       },
       {
         "key": "沙咖影院",
         "name": "🔞沙咖影院",
         "type": 3,
         "api": "csp_XBPQ",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/hl.jar",
+        "jar": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/jar/hl.jar",
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
@@ -1674,7 +1674,7 @@
         "api": "csp_JJAiPian",
         "searchable": 1,
         "filterable": 1,
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/182.jar"
+        "jar": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/jar/182.jar"
       },
       {
         "key": "HiPianZhiBo",
@@ -1693,7 +1693,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 0,
-        "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/疯猫av.json"
+        "ext": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/json/疯猫av.json"
       },
       {
         "key": "csp_XBPQ_奶很大",
@@ -1703,7 +1703,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 0,
-        "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/奶很大.json"
+        "ext": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/json/奶很大.json"
       },
       {
         "key": "葡萄",
@@ -1719,7 +1719,7 @@
         "api": "csp_XBPQ",
         "searchable": 1,
         "recordable": 0,
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar",
+        "jar": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/jar/XBPQ.jar",
         "ext": {
           "直接播放": "1",
           "嗅探词": ".m3u8#.mp4",
@@ -1734,7 +1734,7 @@
         "api": "csp_XBPQ",
         "searchable": 1,
         "recordable": 0,
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar",
+        "jar": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/jar/XBPQ.jar",
         "ext": {
           "简介"   : "name=\"description\"content=\"&&\"/>"                  ,
           "分类url": "https://www.anticasf.com/cn/tag/{cateId}?page={catePg}"
@@ -1783,19 +1783,19 @@
           "User-Agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"
         }
       },
-      {"key":"csp_JavBus","name":"🔞JavBus｜要有網盤","jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar","type":3,"api":"csp_JavBus","ext":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/tokenm.json$$$https://www.cdnbus.shop","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"style":{"type":"rect","ratio":1.77},"timeout":60},
-      {"key":"csp_JavDb","name":"🔞JavDb｜要有網盤","jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar","type":3,"api":"csp_JavDb","ext":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/tokenm.json$$$1","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"style":{"type":"rect","ratio":1.77},"timeout":60},
-      {"key": "AvTime","name": "AvTime｜故障中","type": 3,"api": "csp_AvTime","jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar","searchable": 1,"changeable": 0},
+      {"key":"csp_JavBus","name":"🔞JavBus｜要有網盤","jar": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/jar/pg.jar","type":3,"api":"csp_JavBus","ext":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/tokenm.json$$$https://www.cdnbus.shop","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"style":{"type":"rect","ratio":1.77},"timeout":60},
+      {"key":"csp_JavDb","name":"🔞JavDb｜要有網盤","jar": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/jar/pg.jar","type":3,"api":"csp_JavDb","ext":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/tokenm.json$$$1","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"style":{"type":"rect","ratio":1.77},"timeout":60},
+      {"key": "AvTime","name": "AvTime｜故障中","type": 3,"api": "csp_AvTime","jar": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/jar/pg.jar","searchable": 1,"changeable": 0},
       {
         "key": "top888",
         "name": "🔞top888｜故障中",
         "type": 3,
         "api": "csp_XBPQ",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar",
+        "jar": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/jar/pg.jar",
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 0,
-        "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/top888.json"
+        "ext": "https://raw.githubusercontent.com/serein2494/SereinBox18/refs/heads/main/json/top888.json"
     },
     
 
